@@ -4,8 +4,8 @@ A real-time computer-vision piece where hand gestures control a generative parti
 
 *Status: Towards the end of development. Architecture and interaction design below reflect the current plan; see Build Progress and Mockup.*
 
-<img width="986" height="754" alt="image" src="https://github.com/user-attachments/assets/c20f2f99-133f-4317-8221-3662f8930a88" />
-
+## Mockup
+<img width="986" height="900" alt="image" src="https://github.com/user-attachments/assets/0dd1630b-76b5-406a-9291-2c6db4d71a28" />
 
 ## Tech Stack
 React · MediaPipe Hands · JavaScript · Canvas · Vercel · React Testing Library
